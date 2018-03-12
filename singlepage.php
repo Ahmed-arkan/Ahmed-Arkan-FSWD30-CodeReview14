@@ -43,7 +43,7 @@ $id = $_GET['id'];
 
 <!-- Navbar (sit on top) -->
 
-
+<?php include('navbar.php'); ?>
 
 <!-- Header -->
 
